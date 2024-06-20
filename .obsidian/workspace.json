@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "dccb1f00cfc48acb",
+    "type": "split",
+    "children": [
+      {
+        "id": "0e034736c939a1b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2dfbf7eb7bdb5ca4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "renshuu/17.RequestsAndPermission.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d36c5b251e287b20",
+    "type": "split",
+    "children": [
+      {
+        "id": "009ae1a7c909448f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "33c0459362fc8b6a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7116d884da284a48",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4774ec6199aa8a41",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 341.5
+  },
+  "right": {
+    "id": "9fc3c7b96029c622",
+    "type": "split",
+    "children": [
+      {
+        "id": "48e27f7df2ec79c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c7d7023ff9440567",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "renshuu/17.RequestsAndPermission.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1db8199bfdc1c8ac",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e472e22652f216ae",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "renshuu/17.RequestsAndPermission.md"
+              }
+            }
+          },
+          {
+            "id": "286fa1326ab9bdb7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "renshuu/17.RequestsAndPermission.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 760.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
+    }
+  },
+  "active": "2dfbf7eb7bdb5ca4",
+  "lastOpenFiles": [
+    "renshuu/17.RequestsAndPermission.md",
+    "renshuu/Untitled.md",
+    "renshuu/16.VerbFormsている.md",
+    "renshuu/15.VerbFormsて.md",
+    "renshuu/14.Invitations.md",
+    "renshuu/13.PastTenseました.md",
+    "renshuu/12.PastTenseでした.md",
+    "renshuu/11.ExistenceVerbsあるいる.md",
+    "renshuu/10.BasicParticles(もと).md",
+    "renshuu/9.BasicPparticles(へに).md",
+    "renshuu/11.ExistenceVerbs あるいる.md",
+    "renshuu/10.Basic particles (もと).md",
+    "renshuu/9.BasicPparticles (へに).md",
+    "renshuu/8.BasicParticles.md",
+    "renshuu/7.ます・ません.md",
+    "renshuu/7.BasicVerbs.md",
+    "renshuu/6.SimpleQuestions.md",
+    "renshuu/5.Adjectives-like-dislike-and-want.md",
+    "renshuu/4.Adjectives-negative-and-linking.md",
+    "renshuu/2.The-possessive-の.md",
+    "renshuu/1.Simple-sentences-with-です.md",
+    "renshuu/8.に.md",
+    "renshuu/6.Questions_with_か.md",
+    "renshuu/5.すき・きらい・ほしい.md",
+    "Excalidraw/Drawing 2024-06-16 13.45.21.excalidraw.md",
+    "Excalidraw/Drawing 2024-06-17 23.05.52.excalidraw.md",
+    "renshuu/5.すき・きらい・ほしい/image-20240617232104050.png",
+    "renshuu/5.すき・きらい・ほしい",
+    "Excalidraw/Scripts/Downloaded/Connect elements.svg",
+    "Excalidraw/Scripts/Downloaded/Box Each Selected Groups.svg",
+    "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
+    "Excalidraw/Scripts/Downloaded",
+    "Excalidraw/Scripts",
+    "Excalidraw/font/eurostile.TTF",
+    "Excalidraw/font/EuroStyle Normal.ttf",
+    "Excalidraw/font/micross.ttf",
+    "Excalidraw/font/msyhbd.ttc",
+    "Excalidraw/font/msyhl.ttc",
+    "Excalidraw/font/msyh.ttc",
+    "Excalidraw/font",
+    "未命名.canvas"
+  ]
+}
